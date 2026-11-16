@@ -1,0 +1,55 @@
+{
+  "name": "ClearVision V7 Amethyst",
+  "description": "Custom ClearVision Amethyst theme converted for mobile Discord.",
+  "authors": [
+    {
+      "name": "ClearVision Team"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#d8d8db", "#36363c"],
+    "HEADER_SECONDARY": ["#aeaeb4", "#75757e"],
+    "TEXT_NORMAL": ["#d8d8db", "#36363c"],
+    "TEXT_MUTED": ["#aeaeb4", "#75757e"],
+    "TEXT_LINK": ["#a71eb3", "#a71eb3"],
+    "INTERACTIVE_NORMAL": ["#d8d8db", "#36363c"],
+    "INTERACTIVE_HOVER": ["#a71eb3", "#a71eb3"],
+    "INTERACTIVE_ACTIVE": ["#ffffff", "#0a0a0a"],
+    "INTERACTIVE_MUTED": ["#75757e", "#aeaeb4"],
+    "BACKGROUND_PRIMARY": ["#0a0a0a", "#fcfcfc"],
+    "BACKGROUND_SECONDARY": ["#050505", "#f2f2f5"],
+    "BACKGROUND_SECONDARY_ALT": ["#000000", "#e6e6eb"],
+    "BACKGROUND_TERTIARY": ["#000000", "#dcdce0"],
+    "BACKGROUND_ACCENT": ["#a71eb3", "#a71eb3"],
+    "BACKGROUND_FLOATING": ["#0a0a0a", "#fcfcfc"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#0a0a0a", "#fcfcfc"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#000000", "#f2f2f5"],
+    "CHAT_BACKGROUND": ["#0a0a0a", "#fcfcfc"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#141414", "#e6e6eb"],
+    "CHANNEL_ICON": ["#aeaeb4", "#75757e"],
+    "CHANNELS_DEFAULT": ["#aeaeb4", "#75757e"],
+    "STATUS_ONLINE": ["#ff00aa", "#ff00aa"],
+    "STATUS_IDLE": ["#000000", "#000000"],
+    "STATUS_DND": ["#ff0000", "#ff0000"],
+    "STATUS_OFFLINE": ["#000000", "#000000"]
+  },
+  "rawColors": {
+    "PRIMARY_500": "#aeaeb4",
+    "PRIMARY_600": "#0a0a0a",
+    "PRIMARY_630": "#050505",
+    "PRIMARY_660": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#000000",
+    "BRAND_500": "#a71eb3",
+    "BRAND_560": "#8a1694",
+    "GREEN_360": "#08ff90",
+    "RED_400": "#ff0000",
+    "YELLOW_300": "#5d00ff"
+  },
+  "background": {
+    "url": "https://i.imgur.com/naobcAp.gif",
+    "blur": 0,
+    "alpha": 0.6
+  },
+  "spec": 2
+}
